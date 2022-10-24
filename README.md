@@ -1,2 +1,2 @@
-# hackerschool
+# hackerschool repo
 hackerschool projects
